@@ -1,2 +1,3 @@
 ﻿global using SpecificationPatternDemo.Models;
+global using SpecificationPatternDemo.Repositories;
 global using SpecificationPatternDemo.Specifications;
