@@ -1,0 +1,2 @@
+﻿global using SpecificationPatternDemo.Models;
+global using SpecificationPatternDemo.Specifications;
